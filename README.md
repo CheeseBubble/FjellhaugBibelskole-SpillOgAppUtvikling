@@ -1,1 +1,0 @@
-# FjellhaugBibelskole-SpillOgAppUtvikling
